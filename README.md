@@ -19,8 +19,9 @@ Welcome to my GitHub profile! I'm passionate about robotics, AI, and building in
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github.com/RaaidhSabry/RaaidhSabry/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
 </p>
+
 
 
 
