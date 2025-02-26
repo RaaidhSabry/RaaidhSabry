@@ -19,8 +19,9 @@ Welcome to my GitHub profile! I'm passionate about robotics, AI, and building in
 
 ### 🔥 GitHub Streak
 <p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=RaaidhSabry&theme=radical&hide_border=true)
+  <img src="https://streak-stats.demolab.com/?user=RaaidhSabry&theme=radical&hide_border=true" alt="GitHub Streak">
 </p>
+
 
 ### 📈 GitHub Stats
 <p align="center">
