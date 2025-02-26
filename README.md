@@ -1,7 +1,7 @@
-# Hi there, I'm Raaidh Sabry! 👋
+<h1 align="center"> Hi there, I'm Raaidh Sabry! 👋 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F70000&width=435&lines=Robotics+%7C+AI+%7C+Automation;Passionate+ML+%26+AI+Enthusiast;Innovative+Tech+Explorer;Always+Open+to+Collaboration"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F70000&width=600&center=true&vCenter=true&lines=Robotics+%7C+AI+%7C+Automation;Passionate+ML+%26+AI+Enthusiast;Innovative+Tech+Explorer;Always+Open+to+Collaboration"/>
 </p>
 
 Welcome to my GitHub profile! I'm passionate about robotics, AI, and building innovative solutions.
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about robotics, AI, and building in
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RaaidhSabry&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaaidhSabry&theme=radical&hide_border=true"/>
 </p>
 
 ### 📈 GitHub Stats
@@ -43,14 +43,34 @@ Welcome to my GitHub profile! I'm passionate about robotics, AI, and building in
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RaaidhSabry&theme=radical"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaaidhSabry&theme=radical"/>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,java,html,css,js,react,nodejs,mongodb,git,docker,kubernetes"/>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+  </a>
+  <a href="https://www.tensorflow.org/">
+    <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow"/>
+  </a>
+  <a href="https://pytorch.org/">
+    <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch"/>
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=java"/>
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
+  </a>
 </p>
 
 ---
@@ -70,7 +90,6 @@ Welcome to my GitHub profile! I'm passionate about robotics, AI, and building in
 
 ---
 
-
 ### 🚀 Fun Fact
 <p align="center">
   ⚡ The best way to predict the future is to invent it!
@@ -81,4 +100,3 @@ Welcome to my GitHub profile! I'm passionate about robotics, AI, and building in
 <p align="center">
   ⭐️ *Feel free to fork and star my repositories!*
 </p>
-
