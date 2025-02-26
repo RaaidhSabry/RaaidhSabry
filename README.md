@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I'm passionate about robotics, AI, and building in
 ## 📊 GitHub Analytics & Stats
 
 ### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="3D Contribution Calendar"/>
-</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub Streak](https://streak-stats.demolab.com/?user=RaaidhSabry&theme=radical&hide_border=true)
+
 
 
 
