@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F70000&width=435&lines=Robotics+%7C+AI+%7C+Automation;Passionate+ML+%26+AI+Enthusiast;Innovative+Tech+Explorer;Always+Open+to+Collaboration"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="50%">
-</p>
-
 Welcome to my GitHub profile! I'm passionate about robotics, AI, and building innovative solutions.
 
 ## 🚀 About Me
