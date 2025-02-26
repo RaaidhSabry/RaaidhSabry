@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I'm passionate about robotics, AI, and building in
   <a href="https://github.com/RaaidhSabry">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.instagram.com/RaaidhSabry">
+  <a href="https://www.instagram.com/raaidh_sabry">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
