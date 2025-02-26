@@ -28,11 +28,6 @@ Welcome to my GitHub profile! I'm passionate about robotics, AI, and building in
   <img src="https://github-readme-stats.vercel.app/api?username=RaaidhSabry&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
-### 📊 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaaidhSabry&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
 ---
 
 ## 📡 Advanced Analytics
@@ -51,28 +46,71 @@ Welcome to my GitHub profile! I'm passionate about robotics, AI, and building in
 
 ## 🛠️ Tech Stack
 <p align="center">
+  <!-- Programming Languages -->
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
   </a>
-  <a href="https://www.tensorflow.org/">
-    <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow"/>
-  </a>
-  <a href="https://pytorch.org/">
-    <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch"/>
-  </a>
   <a href="https://www.java.com/">
-    <img src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=java"/>
+    <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java"/>
   </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript"/>
+  </a>
+  <a href="https://dart.dev/">
+    <img src="https://img.shields.io/badge/Dart-skyblue?style=for-the-badge&logo=dart"/>
+  </a>
+
+  <!-- Frameworks & Libraries -->
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
+  </a>
+  <a href="https://angular.io/">
+    <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular"/>
   </a>
   <a href="https://nodejs.org/">
     <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
   </a>
+  <a href="https://flask.palletsprojects.com/">
+    <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
+  </a>
+  <a href="https://spring.io/">
+    <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring"/>
+  </a>
+
+  <!-- AI & Machine Learning -->
+  <a href="https://www.tensorflow.org/">
+    <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow"/>
+  </a>
+  <a href="https://www.opencv.org/">
+    <img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge&logo=opencv"/>
+  </a>
+
+  <!-- Databases -->
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
   </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
+  </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase"/>
+  </a>
+
+  <!-- DevOps & Tools -->
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git"/>
+  </a>
+  <a href="https://azure.microsoft.com/">
+    <img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft-azure"/>
+  </a>
 </p>
+
 
 ---
 
